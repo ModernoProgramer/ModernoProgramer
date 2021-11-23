@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/ModernoProgramer">
   <img align="left" height="180m" src="https://github-readme-stats.vercel.app/api?username=Moderno&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModernoProgramer&theme=radical&layout=compact&langs_count=true)"/>
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandersilv&theme=radical&layout=compact&langs_count=true)"/>
 </div>
 
 <div style="display: inline_block"><br>
