@@ -16,19 +16,21 @@
  
   
   
-  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://th.bing.com/th/id/OIP.mqhUWLYjHhw91J0MNgFR_gHaFj?w=195&h=180&c=7&r=0&o=5&pid=1.7">
-</div>
+
+  <img align="right" alt="Rafa-pic" height="115" style="border-radius:50px;" src="https://th.bing.com/th/id/OIP.mqhUWLYjHhw91J0MNgFR_gHaFj?w=195&h=180&c=7&r=0&o=5&pid=1.7">
+
+<img align="right" alt="Rafa-pic" height="115" src="https://spotify-github-profile.vercel.app/api/view?uid=cp10cxoed4ypnww2w4yth4l9x&cover_image=true&theme=natemoo-re&bar_color=08f500&bar_color_cover=false">
+
+  </div>
   
   ##
  
 <div> 
   <a href="https://www.instagram.com/wilker76809/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://wa.me/5561995809899" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
    <a href="https://twitter.com/ModernoProgram" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/ModernoProgramer/ModernoProgramer/blob/output/github-contribution-grid-snake.svg)
  
- 
+
 </div>
