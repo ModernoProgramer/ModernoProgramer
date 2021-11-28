@@ -19,7 +19,7 @@
 
   <img align="right" alt="Rafa-pic" height="115" style="border-radius:50px;" src="https://th.bing.com/th/id/OIP.mqhUWLYjHhw91J0MNgFR_gHaFj?w=195&h=180&c=7&r=0&o=5&pid=1.7">
 
-<img align="right" alt="Rafa-pic" height="115" src="https://spotify-github-profile.vercel.app/api/view?uid=cp10cxoed4ypnww2w4yth4l9x&cover_image=true&theme=natemoo-re&bar_color=08f500&bar_color_cover=false">
+<img align="right" alt="Rafa-pic" height="115" src="https://spotify-github-profile.vercel.app/api/view?uid=cp10cxoed4ypnww2w4yth4l9x&cover_image=true&theme=natemoo-re&bar_color=00ffee&bar_color_cover=false">
 
   </div>
   
