@@ -8,8 +8,6 @@
 <div  style="">
 
 
-  <img align="right" alt="Rafa-pic" height="130" style="border-radius:50px;" src="https://i.pinimg.com/originals/01/4a/82/014a82a21afc6af40717522141ad321d.gif">
-
   
 
 
