@@ -8,10 +8,14 @@
 <div  style="">
 
 
-  <img align="right" alt="Rafa-pic" height="130" style="border-radius:50px;" src="https://th.bing.com/th/id/OIP.mqhUWLYjHhw91J0MNgFR_gHaFj?w=195&h=180&c=7&r=0&o=5&pid=1.7">
+  <img align="right" alt="Rafa-pic" height="130" style="border-radius:50px;" src="https://i.pinimg.com/originals/01/4a/82/014a82a21afc6af40717522141ad321d.gif">
 
+  
+
+
+  
 <img alt="Rafa-pic" height="130" style="margin-left: 1500px" src="https://spotify-github-profile.vercel.app/api/view?uid=cp10cxoed4ypnww2w4yth4l9x&cover_image=true&theme=natemoo-re&bar_color=00ffee&bar_color_cover=false">
-
+<img alt="Rafa-pic" height="130" style="margin-left: 1500px" src="https://i.pinimg.com/originals/61/0c/31/610c314429384631fed11dbe62fb28d8.gif">
   </div>
   
  
