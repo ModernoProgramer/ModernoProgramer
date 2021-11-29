@@ -12,8 +12,8 @@
 
 
   
-<img alt="Rafa-pic" height="100" style="margin-left: 1500px" src="https://spotify-github-profile.vercel.app/api/view?uid=cp10cxoed4ypnww2w4yth4l9x&cover_image=true&theme=natemoo-re&bar_color=00ffee&bar_color_cover=false">
-<img alt="Rafa-pic" height="100" style="margin-left: 1500px" src="https://i.pinimg.com/originals/61/0c/31/610c314429384631fed11dbe62fb28d8.gif">
+<img alt="Rafa-pic" height="110" style="margin-left: 1500px" src="https://spotify-github-profile.vercel.app/api/view?uid=cp10cxoed4ypnww2w4yth4l9x&cover_image=true&theme=natemoo-re&bar_color=00ffee&bar_color_cover=false">
+<img alt="Rafa-pic" height="110" style="margin-left: 1500px" src="https://i.pinimg.com/originals/61/0c/31/610c314429384631fed11dbe62fb28d8.gif">
   </div>
   
  
