@@ -39,8 +39,6 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModernoProgramer&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
-<br><br>
-  ![Snake animation](https://github.com/ModernoProgramer/ModernoProgramer/blob/output/github-contribution-grid-snake.svg)
  
 ## 👨🏽‍🦲 &nbsp;Social Links
 
@@ -64,5 +62,6 @@
 </a>
 </p>
  <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=ModernoProgram&layout=wide&show_reply=off&show_retweet=off" />
-
 </div>
+
+  ![Snake animation](https://github.com/ModernoProgramer/ModernoProgramer/blob/output/github-contribution-grid-snake.svg)
