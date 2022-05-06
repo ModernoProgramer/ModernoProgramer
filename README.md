@@ -1,8 +1,8 @@
- <div  style="top "100"">
+ <div  style="">
 <img alt="Rafa-pic" height="115"   src="https://uploads.spiritfanfiction.com/historias/capitulos/201808/a-biblioteca-do-amor-14120768-290820180126.gif">
   </div>
  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.workana.com/freelancer/bae8fa5d192be3ecd7608c10d05ab276"><i>wilkermoderno</i></a></h1>
-  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.saga.com.br/cursos?utm_id=google"><i>Saga Cursos</i></a> o
+  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.saga.com.br/cursos?utm_id=google"><i>Saga Cursos</i></a> 
 <div align="center">
   <a href="https://github.com/ModernoProgramer">
   <img height="132em" src="https://github-readme-stats.vercel.app/api?username=ModernoProgramer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,11 +22,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- 
-  ##
-  
-  <a href="https://www.instagram.com/wilker_junio200/" target="_blank"><img  align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/wilker_junio200/" target="_blank"><img  align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://wa.me/5561995809899" target="_blank"><img   align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-   <a href="https://twitter.com/ModernoProgram" target="_blank"><img  align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-  
+   <a href="https://twitter.com/ModernoProgram" target="_blank"><img  align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
