@@ -1,3 +1,6 @@
+ <div  style="top "100"">
+<img alt="Rafa-pic" height="115"   src="https://uploads.spiritfanfiction.com/historias/capitulos/201808/a-biblioteca-do-amor-14120768-290820180126.gif">
+  </div>
  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.workana.com/freelancer/bae8fa5d192be3ecd7608c10d05ab276"><i>wilkermoderno</i></a></h1>
   <p align="center">Estudo Desenvolvimento Web na <a href="https://www.saga.com.br/cursos?utm_id=google"><i>Saga Cursos</i></a> o
 <div align="center">
@@ -5,10 +8,7 @@
   <img height="132em" src="https://github-readme-stats.vercel.app/api?username=ModernoProgramer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModernoProgramer&layout=compact&theme=dracula"/>
 </div>
-<div  style="">
 
-<img alt="Rafa-pic" height="115" style="margin-left: 1500px" src="https://i.pinimg.com/originals/61/0c/31/610c314429384631fed11dbe62fb28d8.gif">
-  </div>
   
  ##
 <div> 
