@@ -1,7 +1,7 @@
  <img align="right" height="300em" src="https://uploads.spiritfanfiction.com/historias/capitulos/201808/a-biblioteca-do-amor-14120768-290820180126.gif"/>
   </div>
  <h1 align="left">Pleasure my name is <a href="https://www.workana.com/freelancer/bae8fa5d192be3ecd7608c10d05ab276"><i>wilker</i></a></h1>
-  <p align="left">Study Web Development at <a href="https://www.saga.com.br/cursos?utm_id=google"><i>Saga Cursos</i></a> 
+
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ModernoProgramer&color=yellow" alt="Profile views" /> </p>
 </div>
  - 🔥 Senior Web Developer and focused Instructor
