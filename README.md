@@ -16,7 +16,7 @@
 **JavaScript**,**Css**,**Html5**
 
 - 📚 I'm studying
-**Vector art**,**Image composition**,**Digital painting**,**Visual effect**,**Visual audio editing**,**3D animation***
+**Vector art**,**Image composition**,**Digital painting**,**Visual effect**,**Visual audio editing**,**3D animation**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
