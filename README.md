@@ -1,29 +1,65 @@
- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/83356984/167050102-cce85121-8efe-43c1-b62d-9b9c2fdadd1f.gif)
- <div  style="">
-
+ <img align="right" height="500em" src="https://uploads.spiritfanfiction.com/historias/capitulos/201808/a-biblioteca-do-amor-14120768-290820180126.gif"/>
   </div>
- <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.workana.com/freelancer/bae8fa5d192be3ecd7608c10d05ab276"><i>wilker</i></a></h1>
-  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.saga.com.br/cursos?utm_id=google"><i>Saga Cursos</i></a> 
-<div align="center">
-  <a href="https://github.com/ModernoProgramer">
-  <img height="132em" src="https://github-readme-stats.vercel.app/api?username=ModernoProgramer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModernoProgramer&layout=compact&theme=dracula"/>
+ <h1 align="left">Pleasure my name is <a href="https://www.workana.com/freelancer/bae8fa5d192be3ecd7608c10d05ab276"><i>wilker</i></a></h1>
+  <p align="left">Study Web Development at <a href="https://www.saga.com.br/cursos?utm_id=google"><i>Saga Cursos</i></a> 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ModernoProgramer&color=yellow" alt="Profile views" /> </p>
 </div>
+ - 🔥 Senior Web Developer and focused Instructor
 
-  
- ##
+- 🔭 I am currently working as a freelancer
+
+- 👨‍💻 This is my Profile at [workana ](https://www.workana.com/freelancer/bae8fa5d192be3ecd7608c10d05ab276)
+
+- ▶️ I'm taking the course [Saga ](https://www.saga.com.br/cursos?utm_id=google)
+
+- 💬 Languages ​​I already know
+**JavaScript**,**Css**,**Html5**
+
+- 📚 I'm studying
+**Vector art**,**Image composition**,**Digital painting**,**Visual effect**,**Visual audio editing**,**3D animation**
+- ⚡ Curiosity **Oneye**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 <div> 
+<br><br>
 
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ModernoProgramer&show_icons=true&theme=vision-friendly-dark"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModernoProgramer&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
+
+<br><br>
   ![Snake animation](https://github.com/ModernoProgramer/ModernoProgramer/blob/output/github-contribution-grid-snake.svg)
  
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <a href="https://www.instagram.com/wilker_junio200/" target="_blank"><img  align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://wa.me/5561995809899" target="_blank"><img   align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-   <a href="https://twitter.com/ModernoProgram" target="_blank"><img  align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<a href="https://codepen.io/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+<a href="https://twitter.com/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://linkedin.com/in/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/maykbrito" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://youtube.com/maykbrito" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>
+</p>
 </div>
