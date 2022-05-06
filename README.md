@@ -4,7 +4,7 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ModernoProgramer&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Senior Web Developer and focused Instructor
+- 🔥 Junior Web Developer and focused
 
 - 🔭 I am currently working as a freelancer
 
