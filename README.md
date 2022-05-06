@@ -1,22 +1,16 @@
-## Oiii eu sou o Moderno
+ <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.workana.com/freelancer/bae8fa5d192be3ecd7608c10d05ab276"><i>wilkermoderno</i></a></h1>
+  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.saga.com.br/cursos?utm_id=google"><i>Saga Cursos</i></a> o
 <div align="center">
   <a href="https://github.com/ModernoProgramer">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ModernoProgramer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModernoProgramer&layout=compact&theme=dracula"/>
 </div>
-
 <div  style="">
 
-
-  
-
-
-  
-<img alt="Rafa-pic" height="115" style="margin-left: 1500px" src="https://spotify-github-profile.vercel.app/api/view?uid=cp10cxoed4ypnww2w4yth4l9x&cover_image=true&theme=natemoo-re&bar_color=00ffee&bar_color_cover=false">
 <img alt="Rafa-pic" height="115" style="margin-left: 1500px" src="https://i.pinimg.com/originals/61/0c/31/610c314429384631fed11dbe62fb28d8.gif">
   </div>
   
- 
+ ##
 <div> 
 
   ![Snake animation](https://github.com/ModernoProgramer/ModernoProgramer/blob/output/github-contribution-grid-snake.svg)
