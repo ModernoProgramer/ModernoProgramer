@@ -37,6 +37,7 @@
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=ModernoProgramer&show_icons=true&theme=vision-friendly-dark"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModernoProgramer&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+ <img width="530em" src="https://github-readme-stats.vercel.app/api/wakatime?username=d5ccd2bc-361d-4979-807e-892a400520f3&theme=vision-friendly-dark" />
 </p>
 
  
